@@ -1,0 +1,44 @@
+
+		ьЕОНР кХБМЪ - гЮВЕЛ?
+!		(CК. Х ЛСГ. √ ыЕПАЮЙНБ CРЮМХЯКЮБ)
+!		CЮАКХМН 2002.
+
+!		<Em(!)> - ([021000]),
+!		<G6>    √ ([320000]),
+!		<Dsus2> √ ([xx0230]),
+!		<Dsus>  √ ([xx0233]),
+!		<F/E>   √ ([003210]),
+!		<Am7>   √ ([x02010]),
+!		<G>     √ ([320001]),
+!		<G/F#>  - ([200001]),
+!		<Em/d>  √ ([022030]),
+!		<Em7>   √ ([022003]),
+!		<G6/d>  √ ([320030]).
+
+>		Em   Em(!)   G6   Dsus2 Dsus Dsus2   Em   Em(!)   G6   Dsus Dsus2
+>		Em           Em(!)           G6             Dsus2
+		рш йPсрхьэ дEмэцх, рш хCCкEдсEьэ CбOи йAфдши ьAц.
+>		Em           Em(!)           G6             Dsus2
+		рбOи дEмэ PACCохCAм йAй мA тOPлскE аAй.
+>		F/E                                     Dsus2
+		оOCкEдмхи COм рEаE оPхCмхкCъ кEр оърэ мAгAд
+>		F/E                        E             G
+		рш CлOрPхьэ б гEPйAкO х бхдхьэ рAл CбOх цкAгA┘
+>		C          Am7             E                G
+		гAвEл рEаE щрO бCE, врOаш фхрэ дOCрAрOвмO кхьэ OдмOцO┘
+>		C          Am7             E                G        G/F#
+		гAвEл рEаE щрO бCE, врOаш фхрэ дOCрAрOвмO кхьэ OдмOцO┘
+>		Em Em/d Em Em7 G6 G6/d G6 G Em Em/d Em Em7 G G/F#
+		рш фдEьэ йOцдA рш гAPAаOрAEьэ аOкэьOи йAохрAк,
+		мO врO рш асдEьэ дEкAрэ, йOцдA рш асдEьэ CрAP.
+		оOдслAи, лхP мE рAй сф окOX аEг щрхX PAгмшX аAмймOр,
+		х вхыE, ксвьE, х йPACхбEи Oм йAй аEкши жбEрOй.
+		гAвEл рEаE щрO бCE, врOаш фхрэ дOCрAрOвмO кхьэ OдмOцO┘
+		гAвEл рEаE щрO бCE, врOаш фхрэ дOCрAрOвмO кхьэ OдмOцO┘
+>		C5   A5   E5   G5   C5   A5   E5   G5
+		рш оOCлOрPх йAй кчдх CлOрPър б CкEд х гкO цOбOPър,
+		йAйOи аOцAрши рш, йAйOи рсоOи. хдх мAгAд!
+		ъ гмAч йAй рEаE сфACмO окOXO йAфдсч мOвэ:
+		рш XOвEьэ бширх х мAирх E╗, сEXAрэ оPOвэ┘
+		гAвEл рEаE щрO бCE, врOаш фхрэ дOCрAрOвмO кхьэ OдмOцO┘
+		гAвEл рEаE щрO бCE, врOаш фхрэ дOCрAрOвмO кхьэ OдмOцO┘
